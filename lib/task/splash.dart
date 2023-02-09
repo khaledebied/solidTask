@@ -1,7 +1,7 @@
 part of 'task_imports.dart';
 /// Splash class used to show the UI of initial page
 class Splash extends StatefulWidget {
-  /// splash constructor
+  /// Splash constructor
   const Splash({Key? key}) : super(key: key);
 
   @override
