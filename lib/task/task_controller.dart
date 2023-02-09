@@ -2,7 +2,6 @@ part of 'task_imports.dart';
 
 /// this taskController class responsible for containing Task test methods
 class TaskController {
-
   ///method used to handle splash routing
   void handleSplashRoute(BuildContext context) {
     Future.delayed(const Duration(seconds: 4), () {
