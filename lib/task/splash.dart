@@ -26,7 +26,7 @@ class _SplashState extends State<Splash> {
           child: AnimationContainer(
             index: AppConstants.animationIndex,
             vertical: true,
-            duration: const Duration(milliseconds: 600),
+            duration: const Duration(milliseconds:600),
             child: SvgPicture.asset(
               AppConstants.logo,
               width: AppConstants.logoWidth,
